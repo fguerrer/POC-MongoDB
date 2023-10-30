@@ -21,7 +21,7 @@ Features:
 ## Setup
 
 ``` bash
-git clone git://github.com/jpducassou/POC-MongoDB
+git clone git://github.com/fguerrer/POC-MongoDB
 cd ~/POC-MongoDB
 ```
 
